@@ -1,7 +1,7 @@
 {
   "name": "nudgr",
   "description": "A stay focused, how did i do that again app",
-  "repository": "http://nudg-r.com",
+  "repository": "",
   "logo": "",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
